@@ -10124,3 +10124,7 @@ header.masthead h1 {
 .pointer{
   cursor: pointer;
 }
+a:hover{
+   text-decoration: none;
+ }
+
