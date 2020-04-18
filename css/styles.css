@@ -10120,3 +10120,7 @@ header.masthead h1 {
 .hide {
   visibility: hidden;
 }
+
+.pointer{
+  cursor: pointer;
+}
